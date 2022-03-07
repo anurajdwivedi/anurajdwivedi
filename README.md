@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Google Search Engine UI](https://anurajdwivedi.github.io/googlesearchenginui/)
 
-- 🌱 I’m currently learning **Reactjs, Django, Next.js**
+- 🌱 I’m currently learning **Marketing & Tools**
 
 - 👯 I’m looking to collaborate on [Notifier](Not Live Yet)
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@Anurajdwivedi](https://medium.com/@Anurajdwivedi)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development & Digital Marketing**
 
 - 📫 How to reach me **danuraj18042017@gmail.com**
 
